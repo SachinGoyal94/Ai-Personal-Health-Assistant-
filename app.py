@@ -295,4 +295,4 @@ def create_ui():
     return demo
 
 app = create_ui()
-app.launch(share=True, inline=False)
+iface.launch(server_name="0.0.0.0", server_port=7860)
