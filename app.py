@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/18AGmw2a0VommBiv4ZuOu-s5WXm5BtiMX
 """
 
-pip install gradio
+
 
 pip install geopy requests
 
